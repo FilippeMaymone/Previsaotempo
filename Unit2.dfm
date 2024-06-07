@@ -12,7 +12,7 @@ object Form2: TForm2
   Font.Style = []
   TextHeight = 13
   object edCidade: TLabeledEdit
-    Left = 16
+    Left = 8
     Top = 48
     Width = 121
     Height = 21
@@ -25,7 +25,7 @@ object Form2: TForm2
   object Memo1: TMemo
     Left = 183
     Top = 8
-    Width = 279
+    Width = 186
     Height = 443
     Lines.Strings = (
       'Memo1')
@@ -33,8 +33,8 @@ object Form2: TForm2
     TabOrder = 1
   end
   object BitBtn1: TBitBtn
-    Left = 16
-    Top = 115
+    Left = 8
+    Top = 75
     Width = 121
     Height = 25
     Caption = 'Pesquisar'
